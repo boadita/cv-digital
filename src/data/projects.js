@@ -76,5 +76,11 @@ export const projects = [
         descripcion: "Aplicación web con la información de equipos, partidos, detalles y estadísticas del mundial 2026",
         tecnologias: ["React"],
         enlace_github: "https://github.com/boadita/mundial-2026.git"
+    },
+    {
+        titulo: "Curriculum digital",
+        descripcion: "Curriculum y portafolio digital sobre mi persona indicando tecnologías que utilizo, experiencia laboral, materias que dicté la docencia, proyectos, realizados, certificaciones que tengo, formación académica, cursos y seminarios realizados",
+        tecnologias: ["React"],
+        enlace_github: "https://github.com/boadita/cv-digital"
     }
 ];
