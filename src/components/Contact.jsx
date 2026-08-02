@@ -22,7 +22,15 @@ const Contact = () => {
                         target="_blank"
                         rel="noopener noreferrer"
                     >
-                        Ver CV
+                        CV Completo
+                    </a>
+                    <a
+                        className="link"
+                        href="/CV_Resumido.pdf"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
+                        CV Resumido
                     </a>
                 </div>
                 <br />
