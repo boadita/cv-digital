@@ -94,6 +94,18 @@ export const seminaries = [
     "descripcion":"Participación en el seminario virtual de “INICIACIÓN AL DESARROLLO CON IA”.",
     "institucion":"BIG SCHOOL. Madrid-España.",
     "periodo":"Marzo 2026"
+  },
+  {
+    "id":17,
+    "descripcion":"Participación en el seminario virtual de “INICIACIÓN A LA IA”.",
+    "institucion":"BIG SCHOOL. Madrid-España.",
+    "periodo":"Septiembre 2026"
+  },
+  {
+    "id":18,
+    "descripcion":"Participación en el seminario virtual de “FUNDAMENTOS DE AWS: CLOUD, SERVERLESS Y OPERACIÓN”.",
+    "institucion":"COMMIT ACADEMY. Barcelona-España.",
+    "periodo":"Septiembre 2026"
   }
 ];
 

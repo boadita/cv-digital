@@ -775,9 +775,15 @@ export const courses = [
   },
   {
     "id":130,
-    "descripcion":"Curso virtual de React Native - Desarrollo Multi",
-    "institucion":"Plataforma con Expo y Supabase (INNOVA CODE).",
+    "descripcion":"Curso virtual de React Native - Desarrollo Multi Plataforma con Expo y Supabase",
+    "institucion":"INNOVA CODE",
     "periodo":"Marzo - Abril 2026"
+  },
+  {
+    "id":131,
+    "descripcion":"Curso virtual Arquitectura y Servicios de TI",
+    "institucion":"Sociedad Boliviana de Ingenieros Regional Potosí.",
+    "periodo":"Enero 2026"
   }
 ];
 

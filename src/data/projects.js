@@ -82,5 +82,11 @@ export const projects = [
         descripcion: "Portafolio web personal que reúne mi perfil profesional, experiencia laboral y docente, proyectos desarrollados, certificaciones, formación académica, cursos, seminarios y habilidades técnicas. Fue diseñado con un enfoque moderno, adaptable y orientado a fortalecer mi presencia profesional en línea.",
         tecnologias: ["React"],
         enlace_github: "https://github.com/boadita/cv-digital"
+    },
+    {
+        titulo: "Cacho digital",
+        descripcion: "Desarrollo de una aplicación web interactiva basada en el tradicional juego boliviano Cacho para dos jugadores. Implementación de la lógica del juego, gestión de turnos, lanzamiento de dados, validación de jugadas y determinación automática del ganador.",
+        tecnologias: ["React"],
+        enlace_github: "https://https://github.com/boadita/cacho-bolivia"
     }
 ];
